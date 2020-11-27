@@ -54,7 +54,7 @@
             // 
             this.atRuzgar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.atRuzgar.Image = ((System.Drawing.Image)(resources.GetObject("atRuzgar.Image")));
-            this.atRuzgar.Location = new System.Drawing.Point(12, 106);
+            this.atRuzgar.Location = new System.Drawing.Point(12, 89);
             this.atRuzgar.Name = "atRuzgar";
             this.atRuzgar.Size = new System.Drawing.Size(142, 122);
             this.atRuzgar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -64,7 +64,7 @@
             // atSahbatur
             // 
             this.atSahbatur.Image = ((System.Drawing.Image)(resources.GetObject("atSahbatur.Image")));
-            this.atSahbatur.Location = new System.Drawing.Point(12, 308);
+            this.atSahbatur.Location = new System.Drawing.Point(12, 338);
             this.atSahbatur.Name = "atSahbatur";
             this.atSahbatur.Size = new System.Drawing.Size(142, 122);
             this.atSahbatur.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -74,7 +74,7 @@
             // atVeli
             // 
             this.atVeli.Image = ((System.Drawing.Image)(resources.GetObject("atVeli.Image")));
-            this.atVeli.Location = new System.Drawing.Point(12, 409);
+            this.atVeli.Location = new System.Drawing.Point(12, 462);
             this.atVeli.Name = "atVeli";
             this.atVeli.Size = new System.Drawing.Size(142, 122);
             this.atVeli.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -84,7 +84,7 @@
             // atPoyraz
             // 
             this.atPoyraz.Image = ((System.Drawing.Image)(resources.GetObject("atPoyraz.Image")));
-            this.atPoyraz.Location = new System.Drawing.Point(12, 207);
+            this.atPoyraz.Location = new System.Drawing.Point(12, 214);
             this.atPoyraz.Name = "atPoyraz";
             this.atPoyraz.Size = new System.Drawing.Size(142, 122);
             this.atPoyraz.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -94,7 +94,7 @@
             // atKamil
             // 
             this.atKamil.Image = ((System.Drawing.Image)(resources.GetObject("atKamil.Image")));
-            this.atKamil.Location = new System.Drawing.Point(12, 510);
+            this.atKamil.Location = new System.Drawing.Point(12, 586);
             this.atKamil.Name = "atKamil";
             this.atKamil.Size = new System.Drawing.Size(142, 122);
             this.atKamil.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -106,7 +106,7 @@
             this.btnBasla.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnBasla.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btnBasla.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnBasla.Location = new System.Drawing.Point(12, 25);
+            this.btnBasla.Location = new System.Drawing.Point(12, 9);
             this.btnBasla.Name = "btnBasla";
             this.btnBasla.Size = new System.Drawing.Size(130, 36);
             this.btnBasla.TabIndex = 1;
@@ -122,7 +122,7 @@
             this.lblFınısh.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblFınısh.Location = new System.Drawing.Point(764, 9);
             this.lblFınısh.Name = "lblFınısh";
-            this.lblFınısh.Size = new System.Drawing.Size(24, 629);
+            this.lblFınısh.Size = new System.Drawing.Size(24, 697);
             this.lblFınısh.TabIndex = 2;
             this.lblFınısh.Text = "FINISH";
             this.lblFınısh.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -136,7 +136,7 @@
             // 
             this.lblSpiker.BackColor = System.Drawing.Color.Lime;
             this.lblSpiker.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblSpiker.Location = new System.Drawing.Point(200, 25);
+            this.lblSpiker.Location = new System.Drawing.Point(200, 8);
             this.lblSpiker.Name = "lblSpiker";
             this.lblSpiker.Size = new System.Drawing.Size(461, 75);
             this.lblSpiker.TabIndex = 3;
@@ -154,7 +154,7 @@
             this.btnTekrar.BackColor = System.Drawing.Color.Red;
             this.btnTekrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnTekrar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnTekrar.Location = new System.Drawing.Point(12, 67);
+            this.btnTekrar.Location = new System.Drawing.Point(12, 49);
             this.btnTekrar.Name = "btnTekrar";
             this.btnTekrar.Size = new System.Drawing.Size(130, 33);
             this.btnTekrar.TabIndex = 5;
@@ -179,7 +179,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(800, 644);
+            this.ClientSize = new System.Drawing.Size(800, 712);
             this.Controls.Add(this.btnTekrar);
             this.Controls.Add(this.lblSonDuzluk);
             this.Controls.Add(this.label1);

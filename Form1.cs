@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace AtYarisiUygulaması
 {
@@ -16,9 +17,10 @@ namespace AtYarisiUygulaması
         {
             InitializeComponent();
         }
-
+        SoundPlayer player = new SoundPlayer();
         private void btnBasla_Click(object sender, EventArgs e)
         {
+            SesEfekti();
             timer2.Enabled = true;
             lblSpiker.Text = "Yarış Başlıyor Sayın Seyirciler...";
             AtlarınDurumDegistir(true);
@@ -91,6 +93,7 @@ namespace AtYarisiUygulaması
 
         private void btnTekrar_Click(object sender, EventArgs e)
         {
+            player.Stop();
             AtlarınDurumDegistir(false);
             timer1.Stop();
             timer2.Enabled = false;
@@ -112,6 +115,12 @@ namespace AtYarisiUygulaması
             {
                 lblSpiker.ForeColor = Color.White;
             }
+        }
+        public void SesEfekti()
+        {
+            
+            player.SoundLocation = @"C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\ses2.wav";
+            player.Play();
         }
     }
 }
