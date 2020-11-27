@@ -1,0 +1,10 @@
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\bin\Debug\AtYarisiUygulaması.exe.config
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\bin\Debug\AtYarisiUygulaması.exe
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\bin\Debug\AtYarisiUygulaması.pdb
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.csprojAssemblyReference.cache
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.Properties.Resources.resources
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.csproj.GenerateResource.cache
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.exe
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.pdb
+C:\Users\EMREPC\source\repos\AtYarisiUygulaması\AtYarisiUygulaması\obj\Debug\AtYarisiUygulaması.FormAtYarisi.resources
